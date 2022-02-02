@@ -1,0 +1,54 @@
+h1{
+    font-size: 50px;
+    font-family: 'Comforter', cursive;
+}
+.name{
+    color:rgb(24, 163, 163)
+}
+h3{
+    font-family: 'Quintessential', cursive;
+}
+h2{
+    font-family: 'Quintessential', cursive;
+    font-size: 40px;
+}
+#web{
+    color:rgb(160, 107, 28)
+}
+p{
+    font-family: 'Supermercado One', cursive;
+    color:rgb(51, 94, 94);
+    font-size: 15px;
+}
+.one{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.one img{
+    width: 100%;
+}
+.button{
+    text-decoration: none;
+    background-color: deeppink;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color:black;
+    font weight: 700;
+
+}
+section{
+    padding-bottom: 250px;
+}
+#n{
+    color:rgb(175, 66, 66)
+}
+.TWO{
+    box-shadow: 10px 10px 50px pink;
+    border-radius: 5px;
+    height: 60%;
+    border-left: 10px solid yellowgreen;
+    
+}
